@@ -13,14 +13,16 @@ Welcome to my Coursera learning journey! This README documents my progress and e
   - IoT
   - System Embedded
   - Networking and Internet
+  - Arduino
+  - C
 
 ## Daily Activity Log
 
-| Date       | Activity Description                                                                                                                                      |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025-01-01 | Started An Introduction to Programming the Internet of Things (IOT) Specialization, completed Introduction to the Internet of Things and Embedded Systems |
-| YYYY-MM-DD |                                                                                                                                                           |
-| YYYY-MM-DD |                                                                                                                                                           |
+| Date       | Activity Description                                                                                                                                                                                                       |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025-01-01 | Started the "Introduction to Programming the Internet of Things (IoT) Specialization" course, completed "Introduction to the Internet of Things and Embedded Systems", and began "The Arduino Platform and C Programming". |
+| YYYY-MM-DD |                                                                                                                                                                                                                            |
+| YYYY-MM-DD |                                                                                                                                                                                                                            |
 
 ## Reflections
 
