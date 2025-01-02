@@ -1,8 +1,8 @@
 Internet of Things
 
-Thing
+Thing ==> IoT
 
-Purpose???
+Purpose IoT???
 
 Trend
 

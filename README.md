@@ -21,7 +21,7 @@ Welcome to my Coursera learning journey! This README documents my progress and e
 | Date       | Activity Description                                                                                                                                                                                                       |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025-01-01 | Started the "Introduction to Programming the Internet of Things (IoT) Specialization" course, completed "Introduction to the Internet of Things and Embedded Systems", and began "The Arduino Platform and C Programming". |
-| YYYY-MM-DD |                                                                                                                                                                                                                            |
+| 2025-01-02 | Finished module 1 of "The Arduino Platform and C Programming" course.                                                                                                                                                      |
 | YYYY-MM-DD |                                                                                                                                                                                                                            |
 
 ## Reflections
@@ -31,15 +31,16 @@ Welcome to my Coursera learning journey! This README documents my progress and e
 | Date       | Challenge Description                                        |
 | ---------- | ------------------------------------------------------------ |
 | 2025-01-01 | I can't understand some english because not my main language |
-| YYYY-MM-DD |                                                              |
+| 2025-01-02 | Not feeling well.                                            |
 | YYYY-MM-DD |                                                              |
 
 - **Achievements:**
 
-  - I understand some vocabularies
+  - Improved my vocabulary
 
 - **Future Goals:**
-  - I found my passion in IT
-  - Learning some new Language
+  - Explore my passion for IT
+  - Learn new programming languages
+  - Learn new national languages
 
 Thank you for following along with my Coursera learning journey!
